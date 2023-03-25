@@ -6,6 +6,7 @@ My Data Science Portfolio
 * Interpretation of relationship between independent variables (meteorological and environmental factors) and dependent variables (solar power generation).
 * Create and compare various machine learning models (polynomial, SVM, KNeighbors, Random Forest, XGBoost, and ANN regressor) that forecasting solar power generation.
 * Optimize the machine learning models with GridSearchCV.
+* Evaluate the machine learning models using regression evaluation metrics (R-squared, RMSE, MAE).
 
 I was able to find the best machine learning model that forecasts the solar power generation from PV panels, which is Random Forest Regressor.
 
