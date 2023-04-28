@@ -1,7 +1,7 @@
 # Jayden_Portfolio
 My Data Science Portfolio
 
-# [Project 1: Solar Power Generation Forecasting](https://github.com/jaydenlau014/Solar_Power_Generation_Forecasting)
+## [Project 1: Solar Power Generation Forecasting](https://github.com/jaydenlau014/Solar_Power_Generation_Forecasting)
 * Create machine learning models that help solar power system operators to predict the solar power generation from PV panels.
 * Interpretation of relationship between independent variables (meteorological and environmental factors) and dependent variables (solar power generation).
 * Create and compare various machine learning models (polynomial, SVM, KNeighbors, Random Forest, XGBoost, and ANN regressor) that forecasting solar power generation.
@@ -13,7 +13,7 @@ I was able to find the best machine learning model that forecasts the solar powe
 ![](https://github.com/jaydenlau014/Solar_Power_Generation_Forecasting/blob/main/Overall%20Score.png)
 
 
-# [Project 2: Job Change into Data Scientists Prediction](https://github.com/jaydenlau014/Human-Resources-Process-Job) 
+## [Project 2: Job Change into Data Scientists Prediction](https://github.com/jaydenlau014/Human-Resources-Process-Job) 
 * Create machine learning models that help the HR department to predict job change into data scientists.
 * Interpretation of relationship between independent variables and dependent variables (job change).
 * Create and compare various machine learning models (Logistic Regression, Random Forest, XGBoost, and KNeighbors classifier) that predict job change.
@@ -23,7 +23,7 @@ I was able to find the best machine learning model that forecasts the solar powe
 ![](https://github.com/jaydenlau014/Human-Resources-Process-Job/blob/main/Overall%20Score.png)
 
 
-# [Project 3: Twitter Sentiment Analysis](https://github.com/jaydenlau014/Twitter_Sentiment_Analysis)
+## [Project 3: Twitter Sentiment Analysis](https://github.com/jaydenlau014/Twitter_Sentiment_Analysis)
 * Twitter sentiment analysis is the process of using natural language processing, text analysis, and computational techniques to identify and extract subjective information from tweets posted on the social media platform Twitter. 
 * The objective of Twitter sentiment analysis is to determine the sentiment, emotion, or opinion expressed in a tweet, whether it is positive, negative, or neutral. 
 * This information can be used by businesses, organizations, and individuals to gain insights into public opinions, measure brand reputation, and make informed decisions based on the feedback received.
