@@ -31,3 +31,13 @@ I was able to find the best machine learning model that forecasts the solar powe
 * Evaluate each model using classification evaluation metrics (Accuracy, Precision, Recall and F1 score).
 
 ![image](https://user-images.githubusercontent.com/109339656/235045397-dcd1d1ba-46bf-4e1c-9def-684b93688831.png)
+
+## [Project 4: Stock-Market-Seasonality-Analysis](https://github.com/jaydenlau014/Stock-Market-Seasonality-Analysis)
+* Analyzing historical stock market data for major companies (Apple, Microsoft, Google, Tesla, Amazon).
+* Utilizing Python for data retrieval, financial metric calculations, and analysis.
+* Performing weekly and monthly analyses of stock data.
+* Creating visually appealing Excel reports for data-driven decision-making.
+* Enhancing understanding of stock market trends and performance.
+* Developing proficiency in data analysis and visualization techniques.
+
+![AMAZON Weekly Win Rate](https://github.com/jaydenlau014/Stock-Market-Seasonality-Analysis/assets/109339656/68a793e1-69c4-440b-954d-80385c48ee54)
